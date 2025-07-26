@@ -1,0 +1,17 @@
+# Models Directory
+
+Place your trained models in this directory:
+
+1. **ball_detector_model.pt** - Basketball detection model
+   Download: https://drive.google.com/file/d/1KejdrcEnto2AKjdgdo1U1syr5gODp6EL/view?usp=sharing
+
+2. **court_keypoint_detector.pt** - Court keypoint detection model
+   Download: https://drive.google.com/file/d/1nGoG-pUkSg4bWAUIeQ8aN6n7O1fOkXU0/view?usp=sharing
+
+3. **player_detector.pt** - Player detection model
+   Download: https://drive.google.com/file/d/1fVBLZtPy9Yu6Tf186oS4siotkioHBLHy/view?usp=sharing
+
+These models are required for the basketball video analysis system to function properly.
+
+Auteur: Dday Akrou Cyrille - Data Scientist
+Email: cyrilledady0501@gmail.com

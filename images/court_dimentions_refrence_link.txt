@@ -1,0 +1,12 @@
+# Basketball Court Dimensions Reference
+
+Reference for basketball court dimensions used in tactical view conversion.
+
+Standard basketball court dimensions:
+- Length: 28 meters (94 feet)
+- Width: 15 meters (50 feet)
+
+These dimensions are used for accurate speed and distance calculations in the tactical view.
+
+Auteur: Dday Akrou Cyrille - Data Scientist
+Email: cyrilledady0501@gmail.com

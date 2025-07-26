@@ -1,0 +1,14 @@
+# Output Videos Directory
+
+Processed basketball analysis videos will be saved here.
+
+The system will generate annotated videos with:
+- Player tracking and team assignment
+- Ball detection and tracking
+- Pass and interception detection
+- Court keypoint visualization
+- Tactical view overlay
+- Speed and distance calculations
+
+Auteur: Dday Akrou Cyrille - Data Scientist
+Email: cyrilledady0501@gmail.com

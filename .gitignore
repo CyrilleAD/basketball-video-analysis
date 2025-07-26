@@ -1,0 +1,95 @@
+# Basketball Video Analysis Project
+# Créé par Dday Akrou Cyrille - Data Scientist
+# Email: cyrilledady0501@gmail.com
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (too large for git)
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+
+# Image files (except small ones)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Stubs (cached results)
+stubs/
+
+# Output videos
+output_videos/*.avi
+output_videos/*.mp4
+
+# Keep directory structure
+!output_videos/.gitkeep
+!models/.gitkeep
+!input_videos/.gitkeep
